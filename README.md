@@ -17,8 +17,9 @@ https://youtu.be/ol4Y9tFfuqw
 
 Mail Office
 Mail from ESP32 ( sends directly from ESP32 to the eMail Server )
-![alt tag](https://raw.githubusercontent.com/ESP32DE/HTTP_SMTP_POP3_Client/blob/master/mail_git.png)
+https://github.com/ESP32DE/HTTP_SMTP_POP3_Client/blob/master/mail_git.png
+
 
 eMail Server and HTTP Server
-
+https://github.com/ESP32DE/HTTP_SMTP_POP3_Client/blob/master/mailSVRDesktop_git.png
 
