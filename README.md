@@ -1,2 +1,17 @@
 # HTTP_SMTP_POP3_Client
 ESP32 connect eMail Server and push Messages - nonstop / triggert example Glass Break Sensor on GPIO Gateway for AlarmSystems
+This project is still in work. After we have a 1.0 Release in the esp-idf i push it here
+Just in Time there are small changes sometimes.
+
+# Alarm System
+This Project can be a Base for an Alarm System.
+
+The ESP32 connect a HTTP Server and "Login" with a short Message.
+This let the System know, the ESP32 start his work now.
+
+On ESP32 it can be connected example Glass Break Sensoric and if the GPIO Trigger,
+the eMail is send to the ISP over Router.
+
+Here you see a small youtube about this procedure.
+
+
