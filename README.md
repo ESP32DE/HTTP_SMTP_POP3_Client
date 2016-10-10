@@ -13,5 +13,12 @@ On ESP32 it can be connected example Glass Break Sensoric and if the GPIO Trigge
 the eMail is send to the ISP over Router.
 
 Here you see a small youtube about this procedure.
+https://youtu.be/ol4Y9tFfuqw
+
+Mail Office
+Mail from ESP32 ( sends directly from ESP32 to the eMail Server )
+![alt tag](https://raw.githubusercontent.com/ESP32DE/HTTP_SMTP_POP3_Client/blob/master/mail_git.png)
+
+eMail Server and HTTP Server
 
 
